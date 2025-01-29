@@ -154,7 +154,7 @@
           "settings": {
             "countdown_year": 2024,
             "countdown_month": 2,
-            "countdown_day": 31,
+            "countdown_day": 25,
             "countdown_hour": 0,
             "countdown_zone": "0"
           }
@@ -195,6 +195,132 @@
         "gutter_decrease": false,
         "remove_margin": false,
         "remove_bottom_margin": false
+      }
+    },
+    "products_set_MDMeBC": {
+      "type": "products-set",
+      "blocks": {
+        "price_iLjzRR": {
+          "type": "price",
+          "settings": {}
+        },
+        "title_faCbUE": {
+          "type": "title",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_iLjzRR",
+        "title_faCbUE"
+      ],
+      "settings": {
+        "heading": "Products set",
+        "subheading": "Choose multiple products to combine into a set",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "products": [],
+        "style": "outline",
+        "style_color": "rgba(0,0,0,0)",
+        "panel_title": "Build your set",
+        "panel_subtitle": "",
+        "panel_bg_color": "#3E3E3E",
+        "panel_text_color": "#F5F5F5",
+        "gutter_decrease": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "text_columns_icons_qg6TLr": {
+      "type": "text-columns-icons",
+      "blocks": {
+        "image_Y4pG3e": {
+          "type": "image",
+          "settings": {
+            "icon": "delivery",
+            "crop": true,
+            "title": "Shipping",
+            "caption": "Useful information about your shipping details",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_MjU7kB": {
+          "type": "image",
+          "settings": {
+            "icon": "time-limit",
+            "crop": true,
+            "title": "Returns",
+            "caption": "Show how much time customers have for testing your products",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_jFnEzY": {
+          "type": "image",
+          "settings": {
+            "icon": "store",
+            "crop": true,
+            "title": "Pickup",
+            "caption": "Let your customers know about local pickup",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
+        "image_bhq4ez": {
+          "type": "image",
+          "settings": {
+            "icon": "earth-globe",
+            "crop": true,
+            "title": "Brand",
+            "caption": "Write your brand story and journey",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_icons_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y4pG3e",
+        "image_MjU7kB",
+        "image_jFnEzY",
+        "image_bhq4ez"
+      ],
+      "settings": {
+        "heading": "Text columns with icons",
+        "subheading": "Describe your company with <strong>great</strong> detail!",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-palm-1",
+        "border_radius": 0,
+        "hide_borders": true,
+        "opacity_on_hover": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "gutter_decrease": false,
+        "remove_bottom_margin": false,
+        "seo_h_tag": "h2"
       }
     },
     "product-recommendations": {
@@ -239,6 +365,8 @@
   "order": [
     "main",
     "countdown_nVEF6W",
+    "products_set_MDMeBC",
+    "text_columns_icons_qg6TLr",
     "product-recommendations"
   ]
 }
