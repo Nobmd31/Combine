@@ -237,6 +237,12 @@
             "style": "outline"
           }
         },
+        "custom_liquid_QB7PaF": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_FR\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n\n    <div class=\"temoignage-expert\" style=\"display:flex; margin-bottom:20px; margin-top:-15px; align-items:center; border:1px solid #e1e1e1; padding:12px; border-radius:10px; max-width:1200px;\">\n      <div style=\"flex-shrink:0;\">\n        <!-- Remplace l'image ci-dessous par la photo/illustration de ton choix -->\n        <img src=\"https://alzheimer-recherche.org/wp-content/uploads/2025/05/Pr-BLANC2.jpg\"\n             alt=\"Photo du Dr. M. Bernard\"\n             style=\"border-radius:50%; width:60px; height:60px; object-fit:cover;\">\n      </div>\n\n      <div style=\"margin-left:8px;\">\n        <div style=\"display:flex; align-items:center;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\"\n               alt=\"Avis 4,5 étoiles\"\n               style=\"width:100px; height:auto;\">\n        </div>\n\n        <p style=\"font-style:italic; font-size:11px; margin:5px 0;\">\n          «  La formule\n          <strong>Équilibre Botanique – Moringa</strong> s’intègre facilement dans une démarche de bien-être globale ;\n          mes patients apprécient sa naturalité et sa praticité. »\n        </p>\n\n        <div style=\"display:flex; align-items:center;\">\n          <img src=\"https://pagepilot.ai/images/checkmark.svg\"\n               alt=\"Icône vérifié\"\n               style=\"width:16px; height:20px; margin-right:5px;\">\n          <span>Dr. M. Bernard – Dermatologue</span>\n        </div>\n      </div>\n    </div>\n\n    <!-- Texte complémentaire optionnel -->\n    <!--\n    <div class=\"richtext-product-description2\">\n      <p>Visuels non contractuels : de légères variations peuvent exister selon les lots, sans impact sur la qualité.</p>\n    </div>\n    -->\n\n  </div>\n</div>\n\n<style>\n  /* Icône avant le premier paragraphe (si tu réactives la section ci-dessus) */\n  .richtext-product-description p:nth-child(1)::before {\n    content: '';\n    display: inline-block;\n    background-size: contain;\n    background-repeat: no-repeat;\n    margin-right: 8px; /* Espacement entre l'icône et le texte */\n    vertical-align: middle; /* Aligne l'icône avec le texte */\n  }\n\n  .richtext-product-description2 p {\n    font-size: 14px;\n    line-height: 26px;\n  }\n</style>"
+          }
+        },
         "custom_liquid_93kzxp": {
           "type": "custom_liquid",
           "settings": {
@@ -251,6 +257,7 @@
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3",
         "af013906-3d5b-4148-9396-967652cd74ff",
+        "custom_liquid_QB7PaF",
         "custom_liquid_93kzxp"
       ],
       "settings": {
