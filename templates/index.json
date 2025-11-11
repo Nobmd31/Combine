@@ -204,6 +204,12 @@
           "type": "price",
           "settings": {}
         },
+        "custom_liquid_nXg6gU": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"stock-alert\">\n  <svg class=\"alert-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n    <path d=\"M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z\" fill=\"currentColor\"/>\n  </svg>\n  <span class=\"alert-text\">Il ne reste plus que <strong> 7 moringaé</strong> en stock !</span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    color: #E50000;\n    font-weight: 600;\n    font-size: 14px;\n    font-family: \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n    animation: pulse 1.8s infinite;\n  }\n\n  .alert-icon {\n    width: 18px;\n    height: 18px;\n    color: #E50000;\n    flex-shrink: 0;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.5; }\n    100% { opacity: 1; }\n  }\n\n  @media (max-width: 480px) {\n    .stock-alert {\n      font-size: 13px;\n    }\n    .alert-icon {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>"
+          }
+        },
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4": {
           "type": "description",
           "settings": {
@@ -260,6 +266,7 @@
         "custom_liquid_XzU8jq",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-0",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-1",
+        "custom_liquid_nXg6gU",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
         "custom_liquid_QB7PaF",
