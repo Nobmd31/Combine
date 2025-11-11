@@ -164,8 +164,8 @@
         "7132688c-ac84-440d-aab1-88b359d1d273"
       ],
       "settings": {
-        "heading": "Testimonials",
-        "subheading": "Show <strong>your clients'</strong> thoughts",
+        "heading": "Avis vérifiées",
+        "subheading": "",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
@@ -188,6 +188,12 @@
     "1eee0d8d-5e33-4159-838a-edeeae95e5dd": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_XzU8jq": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% comment %}\n  Bloc minimal Trustpilot-style\n  ⭐⭐⭐⭐☆ + texte \"4,6/5 — + de 7 920 avis\"\n  Police : DM Sans\n{% endcomment %}\n\n<div class=\"rating-inline\">\n  <div class=\"stars\" aria-label=\"Note 4,6 sur 5\">\n    <svg viewBox=\"0 0 24 24\" class=\"star full\"><path d=\"M12 2l2.83 6.4 6.9.53-5.25 4.5 1.7 6.67L12 16.9 5.82 20.1l1.7-6.67L2.27 8.93l6.9-.53L12 2z\"/></svg>\n    <svg viewBox=\"0 0 24 24\" class=\"star full\"><path d=\"M12 2l2.83 6.4 6.9.53-5.25 4.5 1.7 6.67L12 16.9 5.82 20.1l1.7-6.67L2.27 8.93l6.9-.53L12 2z\"/></svg>\n    <svg viewBox=\"0 0 24 24\" class=\"star full\"><path d=\"M12 2l2.83 6.4 6.9.53-5.25 4.5 1.7 6.67L12 16.9 5.82 20.1l1.7-6.67L2.27 8.93l6.9-.53L12 2z\"/></svg>\n    <svg viewBox=\"0 0 24 24\" class=\"star full\"><path d=\"M12 2l2.83 6.4 6.9.53-5.25 4.5 1.7 6.67L12 16.9 5.82 20.1l1.7-6.67L2.27 8.93l6.9-.53L12 2z\"/></svg>\n    <svg viewBox=\"0 0 24 24\" class=\"star half\"><defs><linearGradient id=\"halfGrad\"><stop offset=\"50%\" stop-color=\"#00B67A\"/><stop offset=\"50%\" stop-color=\"#E3E3E3\"/></linearGradient></defs><path d=\"M12 2l2.83 6.4 6.9.53-5.25 4.5 1.7 6.67L12 16.9 5.82 20.1l1.7-6.67L2.27 8.93l6.9-.53L12 2z\" fill=\"url(#halfGrad)\"/></svg>\n  </div>\n\n  <div class=\"rating-text\">\n    <span class=\"score\">4,6/5</span>\n    <span class=\"sep\">—</span>\n    <span class=\"reviews\">+ de 7 920 avis</span>\n  </div>\n</div>\n\n<style>\n  .rating-inline {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-family: \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n  }\n\n  .stars {\n    display: flex;\n    align-items: center;\n    gap: 2px;\n  }\n\n  .star {\n    width: 18px;\n    height: 18px;\n    fill: #00B67A; /* vert Trustpilot */\n  }\n\n  .half {\n    fill: url(#halfGrad);\n  }\n\n  .rating-text {\n    font-size: 14px;\n    color: #1F1F1F;\n  }\n\n  .score {\n    font-weight: 700;\n  }\n\n  .reviews {\n    color: #555;\n  }\n\n  .sep {\n    margin: 0 4px;\n    color: #999;\n  }\n\n  @media (max-width: 480px) {\n    .star {\n      width: 16px;\n      height: 16px;\n    }\n    .rating-text {\n      font-size: 13px;\n    }\n  }\n</style>"
+          }
+        },
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-0": {
           "type": "title",
           "settings": {
@@ -251,6 +257,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_XzU8jq",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-0",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-1",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
