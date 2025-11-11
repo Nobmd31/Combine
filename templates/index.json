@@ -194,10 +194,6 @@
             "seo_h_tag": "h3"
           }
         },
-        "3558fe54-2891-45ad-8fbc-4afbc0f57045": {
-          "type": "rating",
-          "settings": {}
-        },
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-1": {
           "type": "price",
           "settings": {}
@@ -220,16 +216,6 @@
             "unavailable_variants": "hide"
           }
         },
-        "af013906-3d5b-4148-9396-967652cd74ff": {
-          "type": "product_promotion",
-          "settings": {
-            "heading": "Product promotion",
-            "product": "livraison-premium",
-            "show_price_free": true,
-            "text": "Recevez vos produits plus vite, sans frais supplémentaires",
-            "style": "outline"
-          }
-        },
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3": {
           "type": "buy_buttons",
           "settings": {
@@ -238,6 +224,16 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false,
             "show_price": false,
+            "style": "outline"
+          }
+        },
+        "af013906-3d5b-4148-9396-967652cd74ff": {
+          "type": "product_promotion",
+          "settings": {
+            "heading": "",
+            "product": "livraison-premium",
+            "show_price_free": true,
+            "text": "Recevez vos produits plus vite, sans frais supplémentaires",
             "style": "outline"
           }
         },
@@ -250,12 +246,11 @@
       },
       "block_order": [
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-0",
-        "3558fe54-2891-45ad-8fbc-4afbc0f57045",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-1",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
-        "af013906-3d5b-4148-9396-967652cd74ff",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3",
+        "af013906-3d5b-4148-9396-967652cd74ff",
         "custom_liquid_93kzxp"
       ],
       "settings": {
