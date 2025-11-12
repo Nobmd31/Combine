@@ -87,9 +87,9 @@
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
         "color_hide_borders": false,
-        "gutter_decrease": true,
-        "remove_margin": true,
-        "remove_bottom_margin": true
+        "gutter_decrease": false,
+        "remove_margin": false,
+        "remove_bottom_margin": false
       }
     },
     "16644327731b38e13b": {
