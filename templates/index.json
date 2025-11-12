@@ -337,32 +337,36 @@
         "ee1e988a-b615-4b5e-9679-53baf1a4972c": {
           "type": "tab",
           "settings": {
-            "title": "Information tab",
-            "caption": "<p>Write about various product information, store news or usage support.</p>",
-            "icon": "favorite"
+            "title": "Énergie naturelle",
+            "caption": "<p>Le moringa stimule la vitalité grâce à ses nutriments essentiels, sans provoquer de coup de fatigue.</p>",
+            "image": "shopify://shop_images/962066e9-4382-40a5-89fe-a9f799091460.png",
+            "icon": "earth-globe"
           }
         },
         "1662660652b48c92de-0": {
           "type": "tab",
           "settings": {
-            "title": "Information tab",
-            "caption": "<p>Write about various product information, store news or usage support.</p>",
+            "title": "Sérénité intérieure",
+            "caption": "<p>Ses propriétés adaptogènes aident à réguler le stress et à calmer le système nerveux naturellement.</p>",
+            "image": "shopify://shop_images/ef689bd4-55cb-46c1-ba15-b967d7bea276.png",
             "icon": "favorite"
           }
         },
         "1662660652b48c92de-1": {
           "type": "tab",
           "settings": {
-            "title": "Information tab",
-            "caption": "<p>Write about various product information, store news or usage support.</p>",
+            "title": "Soutien du système immunitaire",
+            "caption": "<p>Riche en antioxydants et minéraux, il renforce les défenses naturelles du corps au quotidien.</p>",
+            "image": "shopify://shop_images/04099f41-c240-43a9-9317-9239b9ed6d0a.png",
             "icon": "favorite"
           }
         },
         "1662660652b48c92de-2": {
           "type": "tab",
           "settings": {
-            "title": "Information tab",
-            "caption": "<p>Write about various product information, store news or usage support.</p>",
+            "title": "Sommeil réparateur",
+            "caption": "<p>En favorisant la détente, le moringa aide à un sommeil plus profond et une meilleure récupération.</p>",
+            "image": "shopify://shop_images/a043ed45-cb58-46ce-a893-0077e2b0ad47.png",
             "icon": "favorite"
           }
         }
@@ -375,7 +379,7 @@
       ],
       "settings": {
         "heading": "Le Moringa",
-        "subheading": "Describe, <strong>promote</strong>, explain",
+        "subheading": "<em>Comment agit-il positivement sur ton corps ?</em>",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
