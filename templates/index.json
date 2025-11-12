@@ -207,6 +207,12 @@
             "unavailable_variants": "hide"
           }
         },
+        "kaching_bundles_app_block_U9WQbU": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "custom_liquid_QB7PaF": {
           "type": "custom_liquid",
           "settings": {
@@ -248,10 +254,14 @@
         "custom_liquid_nXg6gU",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
+        "kaching_bundles_app_block_U9WQbU",
         "custom_liquid_QB7PaF",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3",
         "af013906-3d5b-4148-9396-967652cd74ff",
         "custom_liquid_93kzxp"
+      ],
+      "custom_css": [
+        ".kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__bar-title,.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__bar-subtitle {color: white;}"
       ],
       "settings": {
         "heading": "",
