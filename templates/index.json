@@ -571,7 +571,7 @@
             "icon": "earth-globe",
             "crop": false,
             "title": "",
-            "caption": "Write about your brand's story, early beginnings, and share your mission.",
+            "caption": "Moringaé est née d’une idée simple : apporter le calme et l’équilibre naturel au quotidien grâce à la puissance des plantes",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
@@ -587,7 +587,7 @@
             "icon": "star",
             "crop": false,
             "title": "",
-            "caption": "Tell customers about your values, how you're different, and what makes you unique.",
+            "caption": "Chaque complément est élaboré avec une expertise botanique et scientifique, pour offrir des résultats réels, visibles et sûrs.",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
@@ -600,10 +600,10 @@
         "3e0a2bdb-d051-44e4-83f3-1afa320bde87": {
           "type": "image",
           "settings": {
-            "icon": "wallet",
+            "icon": "security-shield",
             "crop": false,
             "title": "",
-            "caption": "Explain why you're passionate about what you do, and what you hope to achieve.",
+            "caption": "Toutes vos transactions sont cryptées et protégées grâce aux technologies de sécurité les plus avancées.",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
@@ -616,10 +616,10 @@
         "cb83a160-9292-467c-a153-9199925931bb": {
           "type": "image",
           "settings": {
-            "icon": "giftbox",
+            "icon": "delivery-time",
             "crop": true,
             "title": "",
-            "caption": "Introduce your brand by showcasing examples of great works done through the years.",
+            "caption": "Profitez d’une expédition rapide et suivie partout en France et en Europe.Nos commandes sont préparées avec soin et expédiées sous 24 à 48 heures.",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
