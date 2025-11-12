@@ -136,26 +136,12 @@
             "color_borders_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
           }
-        },
-        "image_xLDpW6": {
-          "type": "image",
-          "settings": {
-            "title": "Brand",
-            "caption": "Write your brand story and journey",
-            "link": "",
-            "open_in_new_window": false,
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "color_borders_main": "rgba(0,0,0,0)",
-            "seo_h_tag": "h3"
-          }
         }
       },
       "block_order": [
         "image_Rg6JjL",
         "image_t4gxVG",
-        "image_wMVFxk",
-        "image_xLDpW6"
+        "image_wMVFxk"
       ],
       "name": "t:sections.text-columns-with-images.name",
       "settings": {
