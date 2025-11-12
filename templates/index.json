@@ -401,14 +401,14 @@
         "6bbf7a01-d3d2-4ead-90f4-4698d468453a": {
           "type": "text",
           "settings": {
-            "text": "<p>Our brand</p>",
+            "text": "<p>Moringaé France</p>",
             "text_size": "regular"
           }
         },
         "166245749775e9bb81-0": {
           "type": "title",
           "settings": {
-            "title": "Your brand's tagline",
+            "title": "Naturel, local et engagé",
             "title_size": "heading-size--regular",
             "seo_h_tag": "h2"
           }
@@ -416,35 +416,26 @@
         "166245749775e9bb81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements or welcome customers to your store.</p>",
+            "text": "<p>Nous sélectionnons avec soin des ingrédients d’origine naturelle, issus de filières françaises et responsables.</p><p>Notre mission : vous offrir des compléments efficaces, respectueux du corps et de la planète.</p>",
             "text_size": "large"
-          }
-        },
-        "166245749775e9bb81-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Show more",
-            "link": "",
-            "open_in_new_window": false,
-            "button_style": "outline"
           }
         }
       },
       "block_order": [
         "6bbf7a01-d3d2-4ead-90f4-4698d468453a",
         "166245749775e9bb81-0",
-        "166245749775e9bb81-1",
-        "166245749775e9bb81-2"
+        "166245749775e9bb81-1"
       ],
       "settings": {
+        "image": "shopify://shop_images/4bca8553-b8a2-4eed-81c5-f963b91f1df0.png",
         "video_controls": false,
         "image_position": "right",
         "height": "large",
         "image_crop": true,
-        "is_fullwidth": true,
+        "is_fullwidth": false,
         "text_alignment": "horizontal-left",
-        "spacing": 24,
-        "color_background_main": "#56463b",
+        "spacing": 13,
+        "color_background_main": "#a5afa3",
         "color_text_main": "#ffffff",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
