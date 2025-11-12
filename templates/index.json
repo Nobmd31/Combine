@@ -76,20 +76,20 @@
       "settings": {
         "image": "shopify://shop_images/Design_sans_titre.png",
         "video_controls": false,
-        "image_position": "right",
+        "image_position": "top",
         "height": "small",
-        "image_crop": true,
+        "image_crop": false,
         "is_fullwidth": false,
         "text_alignment": "horizontal-center",
-        "spacing": 24,
+        "spacing": 28,
         "color_background_main": "rgba(0,0,0,0)",
         "color_text_main": "rgba(0,0,0,0)",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
         "color_hide_borders": false,
-        "gutter_decrease": false,
-        "remove_margin": false,
-        "remove_bottom_margin": false
+        "gutter_decrease": true,
+        "remove_margin": true,
+        "remove_bottom_margin": true
       }
     },
     "16644327731b38e13b": {
