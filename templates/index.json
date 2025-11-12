@@ -374,7 +374,7 @@
         "1662660652b48c92de-2"
       ],
       "settings": {
-        "heading": "Le Moringa",
+        "heading": "Bénéfices",
         "subheading": "<em>Comment agit-il positivement sur ton corps ?</em>",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
@@ -440,6 +440,49 @@
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
         "color_hide_borders": true,
+        "gutter_decrease": false,
+        "remove_margin": false,
+        "remove_bottom_margin": false
+      }
+    },
+    "rich_text_cbWdRh": {
+      "type": "rich-text",
+      "blocks": {
+        "title_4WMW6P": {
+          "type": "title",
+          "settings": {
+            "title": "Qu’est-ce que le moringa ?",
+            "title_size": "heading-size--regular",
+            "seo_h_tag": "h3"
+          }
+        },
+        "text_YFjYnt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le moringa, aussi appelé « arbre miracle », est une plante originaire d’Inde et d’Afrique.</p><p>Ses feuilles contiennent plus de <strong>90 minéraux et nutriments</strong>, dont des <strong>vitamines, minéraux, protéines et antioxydants</strong>, et sont utilisées depuis des siècles dans la médecine traditionnelle.</p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_4WMW6P",
+        "text_YFjYnt"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "image": "shopify://shop_images/4ae42c71-3431-4b19-9c92-ee7a328542d0.png",
+        "video_controls": false,
+        "image_position": "right",
+        "height": "regular",
+        "image_crop": true,
+        "is_fullwidth": false,
+        "text_alignment": "horizontal-center",
+        "spacing": 24,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "border_radius": 0,
+        "color_hide_borders": false,
         "gutter_decrease": false,
         "remove_margin": false,
         "remove_bottom_margin": false
@@ -692,6 +735,7 @@
     "before_after_rQ3M9n",
     "166266065378da2b75",
     "1662457498c47086cb",
+    "rich_text_cbWdRh",
     "content_toggles_WeLn3G",
     "1762958609028448c1",
     "a2fc738d-a3ef-4d4c-a4b8-23e75b776a2d"
