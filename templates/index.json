@@ -92,44 +92,6 @@
         "remove_bottom_margin": false
       }
     },
-    "before_after_rQ3M9n": {
-      "type": "before-after",
-      "blocks": {
-        "image_Y69gkR": {
-          "type": "image",
-          "settings": {
-            "label": "Avant"
-          }
-        },
-        "image_VcdtAw": {
-          "type": "image",
-          "settings": {
-            "label": "Après"
-          }
-        }
-      },
-      "block_order": [
-        "image_Y69gkR",
-        "image_VcdtAw"
-      ],
-      "name": "t:sections.refactor_words.before_after.name",
-      "settings": {
-        "heading": "Avant / Après",
-        "subheading": "Nos clients ressentent la différence",
-        "section_heading_size": "text-size--regular",
-        "section_heading_layout": "section-heading--left section-heading--one-row",
-        "cta_label": "",
-        "cta_url": "",
-        "layout": "horizontal",
-        "invert_layout": false,
-        "desktop_height": "before-after--desktop-medium",
-        "mobile_height": "before-after--mobile-medium",
-        "color_style": "dark",
-        "border_radius": 0,
-        "gutter_decrease": false,
-        "seo_h_tag": "h2"
-      }
-    },
     "16644327731b38e13b": {
       "type": "testimonials",
       "blocks": {
@@ -298,6 +260,46 @@
         "seo_h_tag": "h2"
       }
     },
+    "before_after_rQ3M9n": {
+      "type": "before-after",
+      "blocks": {
+        "image_Y69gkR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/16579e57-17f8-4717-a2c3-a3042cde332e.png",
+            "label": "Avant"
+          }
+        },
+        "image_VcdtAw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cc8bd9ce-0137-4668-8b63-face73883e0b.png",
+            "label": "Après"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y69gkR",
+        "image_VcdtAw"
+      ],
+      "name": "t:sections.refactor_words.before_after.name",
+      "settings": {
+        "heading": "Avant / Après",
+        "subheading": "Nos clients ressentent la différence",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "layout": "horizontal",
+        "invert_layout": false,
+        "desktop_height": "before-after--desktop-medium",
+        "mobile_height": "before-after--mobile-small",
+        "color_style": "dark",
+        "border_radius": 0,
+        "gutter_decrease": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "166266065378da2b75": {
       "type": "info-tabs",
       "blocks": {
@@ -341,7 +343,7 @@
         "1662660652b48c92de-2"
       ],
       "settings": {
-        "heading": "Info tabs",
+        "heading": "Le Moringa",
         "subheading": "Describe, <strong>promote</strong>, explain",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
@@ -584,9 +586,9 @@
   "order": [
     "slideshow_WcmwYU",
     "rich_text_7fpqBc",
-    "before_after_rQ3M9n",
     "16644327731b38e13b",
     "1eee0d8d-5e33-4159-838a-edeeae95e5dd",
+    "before_after_rQ3M9n",
     "166266065378da2b75",
     "1662457498c47086cb",
     "content_toggles_WeLn3G",
