@@ -455,36 +455,36 @@
         "text_PwziHJ": {
           "type": "text",
           "settings": {
-            "title": "Shipping details",
-            "subtitle": "Question subtitle",
+            "title": "Comment agit Moringaé Calma sur le corps ?",
+            "subtitle": "Moringaé Calma agit en synergie grâce au moringa et aux plantes adaptogènes.Elles aident à réguler le système nerveux, réduire le stress, favoriser un meilleur sommeil et renforcer les défenses naturelles du corps.",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Write some useful information about your shipping details</p><p>Link to your <a href='#'>shipping policy</a>.</p>",
+            "body": "",
             "hide_block_if": false
           }
         },
         "text_ih7KaP": {
           "type": "text",
           "settings": {
-            "title": "Delivery details",
-            "subtitle": "Question subtitle",
+            "title": "En combien de temps ressent-on les effets ?",
+            "subtitle": "Les premiers bienfaits se font souvent sentir sommeil plus profond, esprit plus calme, moins de tension.Les effets complets apparaissent généralement après 4 à 5 semaines d’utilisation régulière.",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Let your customers know if you offer free delivery for certain types of orders</p><p>Link to your <a href='#'>offers page</a>.</p>",
+            "body": "",
             "hide_block_if": false
           }
         },
         "text_yB3aPJ": {
           "type": "text",
           "settings": {
-            "title": "Returns details",
-            "subtitle": "Question subtitle",
+            "title": "Peut-on prendre Moringaé Calma tous les jours ?",
+            "subtitle": "Oui. Nos gélules sont 100 % naturelles et conçues pour un usage quotidien. Elles peuvent être intégrées à ta routine bien-être sans interruption, selon les besoins.",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Show customers how much time they have for testing your products</p><p>Link to your <a href='#'>returns policy</a>.</p>",
+            "body": "",
             "hide_block_if": false
           }
         }
@@ -497,7 +497,7 @@
       "name": "t:sections.local-extra-words.sections.content-toggles.name",
       "settings": {
         "heading": "FAQ",
-        "subheading": "Share your <strong>best</strong> answers",
+        "subheading": "Moringaé Calma",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
