@@ -456,11 +456,11 @@
           "type": "text",
           "settings": {
             "title": "Comment agit Moringaé Calma sur le corps ?",
-            "subtitle": "Moringaé Calma agit en synergie grâce au moringa et aux plantes adaptogènes.Elles aident à réguler le système nerveux, réduire le stress, favoriser un meilleur sommeil et renforcer les défenses naturelles du corps.",
+            "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "",
+            "body": "<p>Moringaé Calma agit en synergie grâce au moringa et aux plantes adaptogènes.Elles aident à réguler le système nerveux, réduire le stress, favoriser un meilleur sommeil et renforcer les défenses naturelles du corps.</p>",
             "hide_block_if": false
           }
         },
@@ -468,23 +468,71 @@
           "type": "text",
           "settings": {
             "title": "En combien de temps ressent-on les effets ?",
-            "subtitle": "Les premiers bienfaits se font souvent sentir sommeil plus profond, esprit plus calme, moins de tension.Les effets complets apparaissent généralement après 4 à 5 semaines d’utilisation régulière.",
+            "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "",
+            "body": "<p>Les premiers bienfaits se font souvent sentir sommeil plus profond, esprit plus calme, moins de tension.Les effets complets apparaissent généralement après 4 à 5 semaines d’utilisation régulière.</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_T6raW9": {
+          "type": "text",
+          "settings": {
+            "title": "Peut-on prendre Moringaé Calma tous les jours ?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Oui. Nos gélules sont 100 % naturelles et conçues pour un usage quotidien. Elles peuvent être intégrées à ta routine bien-être sans interruption, selon les besoins.</p>",
             "hide_block_if": false
           }
         },
         "text_yB3aPJ": {
           "type": "text",
           "settings": {
-            "title": "Peut-on prendre Moringaé Calma tous les jours ?",
-            "subtitle": "Oui. Nos gélules sont 100 % naturelles et conçues pour un usage quotidien. Elles peuvent être intégrées à ta routine bien-être sans interruption, selon les besoins.",
+            "title": "Où est fabriqué Moringaé Calma ?",
+            "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "",
+            "body": "<p>Nos produits sont formulés et fabriqués en France 🇫🇷, dans des laboratoires certifiés, avec des ingrédients issus de filières responsables et traçables.</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_4zwXkp": {
+          "type": "text",
+          "settings": {
+            "title": "Quand vais-je recevoir ma commande ?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Les commandes sont expédiées sous 24 à 48h ouvrées.</p><p>La livraison prend ensuite entre <strong>4 à 6 jours ouvrés</strong> selon la destination.</p><p>Vous recevrez un email de suivi dès que votre colis quitte notre atelier.</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_Vda9ha": {
+          "type": "text",
+          "settings": {
+            "title": "Quels modes de paiement acceptez-vous ?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Nous acceptons les principales cartes bancaires (Visa, MasterCard, American Express) ainsi que <strong>Shop Pay</strong>, <strong>Apple Pay</strong> et <strong>Google Pay</strong>.</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_rFiCAa": {
+          "type": "text",
+          "settings": {
+            "title": "Puis-je retourner un produit ?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Écrivez-nous simplement à <strong>contact@trymoringae.com</strong> pour initier la procédure.</p>",
             "hide_block_if": false
           }
         }
@@ -492,12 +540,16 @@
       "block_order": [
         "text_PwziHJ",
         "text_ih7KaP",
-        "text_yB3aPJ"
+        "text_T6raW9",
+        "text_yB3aPJ",
+        "text_4zwXkp",
+        "text_Vda9ha",
+        "text_rFiCAa"
       ],
       "name": "t:sections.local-extra-words.sections.content-toggles.name",
       "settings": {
         "heading": "FAQ",
-        "subheading": "Moringaé Calma",
+        "subheading": "Toutes les réponses à vos questions",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
