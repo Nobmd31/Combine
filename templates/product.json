@@ -134,8 +134,8 @@
         "default_to_first_variant": true,
         "sticky_add_to_cart": false,
         "sticky_atc_style": "wide",
-        "sticky_bar_bgcolor": "#fff",
-        "sticky_bar_txtcolor": "#111"
+        "sticky_bar_bgcolor": "#ffffff",
+        "sticky_bar_txtcolor": "#111111"
       }
     },
     "countdown_nVEF6W": {
@@ -223,8 +223,8 @@
         "style_color": "rgba(0,0,0,0)",
         "panel_title": "Build your set",
         "panel_subtitle": "",
-        "panel_bg_color": "#3E3E3E",
-        "panel_text_color": "#F5F5F5",
+        "panel_bg_color": "#3e3e3e",
+        "panel_text_color": "#f5f5f5",
         "gutter_decrease": false,
         "seo_h_tag": "h2"
       }
@@ -360,6 +360,34 @@
         "gutter_decrease": false,
         "remove_bottom_margin": false
       }
+    },
+    "17629576997b4a4121": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_ga3EXw": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_ga3EXw"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "full_width": false,
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
     }
   },
   "order": [
@@ -367,6 +395,7 @@
     "countdown_nVEF6W",
     "products_set_MDMeBC",
     "text_columns_icons_qg6TLr",
-    "product-recommendations"
+    "product-recommendations",
+    "17629576997b4a4121"
   ]
 }
