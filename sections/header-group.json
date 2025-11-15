@@ -14,18 +14,18 @@
     "announcement": {
       "type": "announcement-bar",
       "blocks": {
-        "content_8dJAWe": {
-          "type": "content",
-          "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
-            "link": "",
-            "target": false
-          }
-        },
         "content_LHrnVi": {
           "type": "content",
           "settings": {
             "text": "PRÉ BLACK FIRDAY JUSQU'À -50% !",
+            "link": "",
+            "target": false
+          }
+        },
+        "content_8dJAWe": {
+          "type": "content",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
             "link": "",
             "target": false
           }
@@ -40,8 +40,8 @@
         }
       },
       "block_order": [
-        "content_8dJAWe",
         "content_LHrnVi",
+        "content_8dJAWe",
         "content"
       ],
       "settings": {
