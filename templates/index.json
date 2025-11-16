@@ -312,7 +312,7 @@
       "name": "t:sections.refactor_words.before_after.name",
       "settings": {
         "heading": "Avant / Après",
-        "subheading": "Nos clients ressentent la différence",
+        "subheading": "<strong>Comment Moringaé agit-il sur votre corps</strong>",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
@@ -729,10 +729,10 @@
   },
   "order": [
     "slideshow_WcmwYU",
+    "before_after_rQ3M9n",
     "rich_text_7fpqBc",
     "text_columns_images_zX8QBQ",
     "1eee0d8d-5e33-4159-838a-edeeae95e5dd",
-    "before_after_rQ3M9n",
     "166266065378da2b75",
     "1662457498c47086cb",
     "rich_text_cbWdRh",
