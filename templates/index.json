@@ -114,6 +114,7 @@
         "image_Y69gkR",
         "image_VcdtAw"
       ],
+      "disabled": true,
       "name": "t:sections.refactor_words.before_after.name",
       "settings": {
         "heading": "After / Before",
