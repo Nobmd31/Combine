@@ -114,7 +114,7 @@
       ],
       "name": "t:sections.rich-text.name",
       "settings": {
-        "image": "shopify://shop_images/Design_sans_titre.png",
+        "image": "shopify://shop_images/Image_benefices.png",
         "video_controls": false,
         "image_position": "top",
         "height": "small",
