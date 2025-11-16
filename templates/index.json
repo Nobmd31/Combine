@@ -135,12 +135,12 @@
     "text_columns_images_zX8QBQ": {
       "type": "text-columns-images",
       "blocks": {
-        "image_Rg6JjL": {
+        "image_t4gxVG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/25b9bf08-aabb-4e19-9ae2-db85ba928c96.png",
-            "title": "Camille D.",
-            "caption": "Moringaé Calma m’a vraiment aidée à mieux gérer mon anxiété. Je me sens plus apaisée et concentrée, même pendant les journées stressantes. J’adore la philosophie naturelle du produit et le fait qu’il soit fabriqué en France.",
+            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_3.png",
+            "title": "Jamal T.",
+            "caption": "I get painful razor bumps every time I shave my neck. Nothing ever worked long-term. After using Elvoro for a week, the bumps went down dramatically and the ingrown hairs finally started to clear. My skin feels smoother and way less irritated. This stuff is legit.",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
@@ -149,12 +149,12 @@
             "seo_h_tag": "h3"
           }
         },
-        "image_t4gxVG": {
+        "image_Rg6JjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4af7a45a-7593-4322-8e92-e74167c5b449.png",
-            "title": "Julien R.",
-            "caption": "Je suis quelqu’un d’assez anxieux, et ce complément a fait une vraie différence.    Mon stress a nettement diminué et mon sommeil est devenu plus profond. Un excellent produit, à la fois efficace et sain.",
+            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_2.png",
+            "title": "Michael R.",
+            "caption": "I’ve struggled with bumps and ingrown hairs for years, especially around my jawline. After one week with Elvoro, the redness went down, the bumps softened, and shaving stopped irritating my skin. This is the first product that actually works and doesn’t burn. I’m impressed.",
             "link": "",
             "open_in_new_window": false,
             "color_background_main": "rgba(0,0,0,0)",
@@ -179,14 +179,14 @@
         }
       },
       "block_order": [
-        "image_Rg6JjL",
         "image_t4gxVG",
+        "image_Rg6JjL",
         "image_wMVFxk"
       ],
       "name": "t:sections.text-columns-with-images.name",
       "settings": {
-        "heading": "Avis vérifées",
-        "subheading": "+8720 clients satisfaits en 2025",
+        "heading": "Verified Reviews",
+        "subheading": "+8,720 satisfied customers",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
