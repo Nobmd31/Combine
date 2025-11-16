@@ -329,51 +329,51 @@
     "166266065378da2b75": {
       "type": "info-tabs",
       "blocks": {
-        "ee1e988a-b615-4b5e-9679-53baf1a4972c": {
-          "type": "tab",
-          "settings": {
-            "title": "Énergie naturelle",
-            "caption": "<p>Le moringa stimule la vitalité grâce à ses nutriments essentiels, sans provoquer de coup de fatigue.</p>",
-            "image": "shopify://shop_images/962066e9-4382-40a5-89fe-a9f799091460.png",
-            "icon": "earth-globe"
-          }
-        },
         "1662660652b48c92de-0": {
           "type": "tab",
           "settings": {
-            "title": "Sérénité intérieure",
-            "caption": "<p>Ses propriétés adaptogènes aident à réguler le stress et à calmer le système nerveux naturellement.</p>",
-            "image": "shopify://shop_images/ef689bd4-55cb-46c1-ba15-b967d7bea276.png",
+            "title": "Unclogs Pores",
+            "caption": "<p>Helps free trapped hairs by dissolving buildup deep inside the pores.</p>",
+            "image": "shopify://shop_images/b2e356e9-7cba-43a4-a95b-3c24e547436a.png",
             "icon": "favorite"
+          }
+        },
+        "ee1e988a-b615-4b5e-9679-53baf1a4972c": {
+          "type": "tab",
+          "settings": {
+            "title": "Exfoliates Dead Skin",
+            "caption": "<p>Elvoro gently exfoliates the surface of your skin, removing dead cells and preventing clogged pores that lead to ingrown hairs.</p>",
+            "image": "shopify://shop_images/d386294f-bc17-4ac8-9f4f-1d43b44be42b.png",
+            "icon": "earth-globe"
           }
         },
         "1662660652b48c92de-1": {
           "type": "tab",
           "settings": {
-            "title": "Soutien du système immunitaire",
-            "caption": "<p>Riche en antioxydants et minéraux, il renforce les défenses naturelles du corps au quotidien.</p>",
-            "image": "shopify://shop_images/04099f41-c240-43a9-9317-9239b9ed6d0a.png",
+            "title": "Reduces Redness",
+            "caption": "<p>Visibly reduces redness and irritation for a calmer, healthier-looking complexion.</p>",
+            "image": "shopify://shop_images/0cddc3cc-55d2-47ad-8291-af83a95d539c.png",
             "icon": "favorite"
           }
         },
         "1662660652b48c92de-2": {
           "type": "tab",
           "settings": {
-            "title": "Sommeil réparateur",
-            "caption": "<p>En favorisant la détente, le moringa aide à un sommeil plus profond et une meilleure récupération.</p>",
-            "image": "shopify://shop_images/a043ed45-cb58-46ce-a893-0077e2b0ad47.png",
+            "title": " Prevents Future Bumps",
+            "caption": "<p>Strengthens the skin barrier to prevent new bumps and irritation from forming.</p>",
+            "image": "shopify://shop_images/5f069989-f796-4e8e-afb1-e7aa282c2a82.png",
             "icon": "favorite"
           }
         }
       },
       "block_order": [
-        "ee1e988a-b615-4b5e-9679-53baf1a4972c",
         "1662660652b48c92de-0",
+        "ee1e988a-b615-4b5e-9679-53baf1a4972c",
         "1662660652b48c92de-1",
         "1662660652b48c92de-2"
       ],
       "settings": {
-        "heading": "Bénéfices",
+        "heading": "How It Works?",
         "subheading": "<em>Comment agit-il positivement sur ton corps ?</em>",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
