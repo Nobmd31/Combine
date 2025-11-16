@@ -55,7 +55,7 @@
         "title_QJ3zmN": {
           "type": "title",
           "settings": {
-            "title": "Retrouvez le calme que votre corps réclame.",
+            "title": "Elvoro — The Serum Built for Men’s Skin.",
             "title_size": "heading-size--small",
             "seo_h_tag": "h3"
           }
@@ -63,7 +63,7 @@
         "text_mGkJrR": {
           "type": "text",
           "settings": {
-            "text": "<p>Chaque gélule Moringaé agit en profondeur pour apaiser votre système nerveux, équilibrer vos émotions et redonner à votre corps la sérénité qu’il mérite.</p>",
+            "text": "<p>Elvoro is a smoothing serum designed to tackle what most men deal with daily: bumps, irritation, ingrown hairs, redness, and uneven texture.</p><p>Its lightweight formula absorbs instantly and works beneath the surface to calm the skin, clear pores, and create a clean, smooth finish.</p>",
             "text_size": "regular"
           }
         }
@@ -116,7 +116,7 @@
       ],
       "name": "t:sections.refactor_words.before_after.name",
       "settings": {
-        "heading": "Avant / Après",
+        "heading": "After / Before",
         "subheading": "<strong>Comment Moringaé agit-il sur votre corps</strong>",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
