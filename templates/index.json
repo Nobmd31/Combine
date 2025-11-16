@@ -49,46 +49,6 @@
         "remove_margin": false
       }
     },
-    "before_after_rQ3M9n": {
-      "type": "before-after",
-      "blocks": {
-        "image_Y69gkR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/becc3546-ae55-4c91-88c7-cdec576179fa.png",
-            "label": "Avant"
-          }
-        },
-        "image_VcdtAw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1ffcab17-5e85-419a-8572-3efeda977fb2.png",
-            "label": "Après"
-          }
-        }
-      },
-      "block_order": [
-        "image_Y69gkR",
-        "image_VcdtAw"
-      ],
-      "name": "t:sections.refactor_words.before_after.name",
-      "settings": {
-        "heading": "Avant / Après",
-        "subheading": "<strong>Comment Moringaé agit-il sur votre corps</strong>",
-        "section_heading_size": "text-size--regular",
-        "section_heading_layout": "section-heading--left section-heading--one-row",
-        "cta_label": "",
-        "cta_url": "",
-        "layout": "horizontal",
-        "invert_layout": false,
-        "desktop_height": "before-after--desktop-medium",
-        "mobile_height": "before-after--mobile-small",
-        "color_style": "light",
-        "border_radius": 14,
-        "gutter_decrease": false,
-        "seo_h_tag": "h2"
-      }
-    },
     "rich_text_7fpqBc": {
       "type": "rich-text",
       "blocks": {
@@ -130,6 +90,46 @@
         "gutter_decrease": false,
         "remove_margin": false,
         "remove_bottom_margin": false
+      }
+    },
+    "before_after_rQ3M9n": {
+      "type": "before-after",
+      "blocks": {
+        "image_Y69gkR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/becc3546-ae55-4c91-88c7-cdec576179fa.png",
+            "label": "Avant"
+          }
+        },
+        "image_VcdtAw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1ffcab17-5e85-419a-8572-3efeda977fb2.png",
+            "label": "Après"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y69gkR",
+        "image_VcdtAw"
+      ],
+      "name": "t:sections.refactor_words.before_after.name",
+      "settings": {
+        "heading": "Avant / Après",
+        "subheading": "<strong>Comment Moringaé agit-il sur votre corps</strong>",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "layout": "horizontal",
+        "invert_layout": false,
+        "desktop_height": "before-after--desktop-medium",
+        "mobile_height": "before-after--mobile-small",
+        "color_style": "light",
+        "border_radius": 14,
+        "gutter_decrease": false,
+        "seo_h_tag": "h2"
       }
     },
     "text_columns_images_zX8QBQ": {
@@ -729,8 +729,8 @@
   },
   "order": [
     "slideshow_WcmwYU",
-    "before_after_rQ3M9n",
     "rich_text_7fpqBc",
+    "before_after_rQ3M9n",
     "text_columns_images_zX8QBQ",
     "1eee0d8d-5e33-4159-838a-edeeae95e5dd",
     "166266065378da2b75",
