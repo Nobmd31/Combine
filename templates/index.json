@@ -117,7 +117,7 @@
       "name": "t:sections.refactor_words.before_after.name",
       "settings": {
         "heading": "After / Before",
-        "subheading": "<strong>Comment Moringaé agit-il sur votre corps</strong>",
+        "subheading": "The difference is noticeable after a week.",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",

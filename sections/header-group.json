@@ -17,13 +17,14 @@
         "content_LHrnVi": {
           "type": "content",
           "settings": {
-            "text": "PRÉ BLACK FIRDAY JUSQU'À -50% ! 🎁",
+            "text": "BLACK FRIDAY IS HERE WITH UP TO 50% OFF",
             "link": "",
             "target": false
           }
         },
         "content_8dJAWe": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "text": "SATISFAIT OU REMBOURSÉ",
             "link": "",
@@ -33,7 +34,7 @@
         "content": {
           "type": "content",
           "settings": {
-            "text": "LIVRAISON PREMIUM GRATUITE !",
+            "text": "FREE PREMIUM DELIVERY!",
             "link": "",
             "target": false
           }
