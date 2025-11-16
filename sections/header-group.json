@@ -68,8 +68,8 @@
         "menu"
       ],
       "settings": {
-        "logo_src": "shopify://shop_images/SCR-20251110-htok-removebg-preview.png",
-        "logo_height": 40,
+        "logo_src": "shopify://shop_images/elvoro_logo.png",
+        "logo_height": 24,
         "logo_mobile_height": 40,
         "style": "two-rows",
         "menu_type": "classic",
