@@ -98,15 +98,15 @@
         "image_Y69gkR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/becc3546-ae55-4c91-88c7-cdec576179fa.png",
-            "label": "Avant"
+            "image": "shopify://shop_images/Pseudofolliculite_de_la_barbe.webp",
+            "label": "Before"
           }
         },
         "image_VcdtAw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1ffcab17-5e85-419a-8572-3efeda977fb2.png",
-            "label": "Après"
+            "image": "shopify://shop_images/2680e33e-7257-4640-b5ba-c72aece7dd4d.png",
+            "label": "After"
           }
         }
       },
@@ -117,13 +117,13 @@
       "name": "t:sections.refactor_words.before_after.name",
       "settings": {
         "heading": "After / Before",
-        "subheading": "The difference is noticeable after a week.",
+        "subheading": "The difference is noticeable after treatment",
         "section_heading_size": "text-size--regular",
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
         "cta_url": "",
         "layout": "horizontal",
-        "invert_layout": false,
+        "invert_layout": true,
         "desktop_height": "before-after--desktop-medium",
         "mobile_height": "before-after--mobile-small",
         "color_style": "light",
