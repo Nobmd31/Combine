@@ -400,14 +400,14 @@
         "6bbf7a01-d3d2-4ead-90f4-4698d468453a": {
           "type": "text",
           "settings": {
-            "text": "<p>Moringaé France</p>",
+            "text": "<p>Elvoro </p>",
             "text_size": "regular"
           }
         },
         "166245749775e9bb81-0": {
           "type": "title",
           "settings": {
-            "title": "Naturel, local et engagé",
+            "title": "Developed & Verified by U.S. Dermatologists",
             "title_size": "heading-size--regular",
             "seo_h_tag": "h2"
           }
@@ -415,7 +415,7 @@
         "166245749775e9bb81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nous sélectionnons avec soin des ingrédients d’origine naturelle, issus de filières françaises et responsables.</p><p>Notre mission : vous offrir des compléments efficaces, respectueux du corps et de la planète.</p>",
+            "text": "<p>We formulate our products in certified American laboratories, following strict dermatological standards.</p><p>Every ingredient is selected with precision to ensure safety, effectiveness, and visible results on all skin types.</p>",
             "text_size": "large"
           }
         }
@@ -426,7 +426,7 @@
         "166245749775e9bb81-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/4bca8553-b8a2-4eed-81c5-f963b91f1df0.png",
+        "image": "shopify://shop_images/9174e2f4-3b84-4712-b950-aa769ca22d3d.png",
         "video_controls": false,
         "image_position": "right",
         "height": "large",
@@ -467,6 +467,7 @@
         "title_4WMW6P",
         "text_YFjYnt"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
         "image": "shopify://shop_images/4ae42c71-3431-4b19-9c92-ee7a328542d0.png",
