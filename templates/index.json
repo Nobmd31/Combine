@@ -494,60 +494,60 @@
         "text_PwziHJ": {
           "type": "text",
           "settings": {
-            "title": "Comment agit Moringaé Calma sur le corps ?",
+            "title": "How does Elvoro Serum work on the skin?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Moringaé Calma agit en synergie grâce au moringa et aux plantes adaptogènes.Elles aident à réguler le système nerveux, réduire le stress, favoriser un meilleur sommeil et renforcer les défenses naturelles du corps.</p>",
+            "body": "<p>Elvoro Smoothing Serum uses a blend of clinically recognized active ingredients such as <strong>BHA (salicylic acid), niacinamide, CICA, and witch hazel</strong> to gently exfoliate, calm inflammation, and rebalance the skin barrier.</p><p>Its lightweight formula penetrates deeply to <strong>prevent ingrown hairs, smooth bumps, reduce redness</strong>, and promote clearer, healthier skin with continuous use.</p>",
             "hide_block_if": false
           }
         },
         "text_ih7KaP": {
           "type": "text",
           "settings": {
-            "title": "En combien de temps ressent-on les effets ?",
+            "title": "How long does it take to see results?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Les premiers bienfaits se font souvent sentir sommeil plus profond, esprit plus calme, moins de tension.Les effets complets apparaissent généralement après 4 à 5 semaines d’utilisation régulière.</p>",
+            "body": "<p>Most users start noticing smoother skin and reduced irritation within <strong>5 to 7 days</strong>.</p><p>Visible improvements on ingrown hairs or bumps typically appear within <strong>2 to 3 weeks</strong>, depending on the skin type and consistency of use.</p>",
             "hide_block_if": false
           }
         },
         "text_T6raW9": {
           "type": "text",
           "settings": {
-            "title": "Peut-on prendre Moringaé Calma tous les jours ?",
+            "title": "Can I use Elvoro Serum every day?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Oui. Nos gélules sont 100 % naturelles et conçues pour un usage quotidien. Elles peuvent être intégrées à ta routine bien-être sans interruption, selon les besoins.</p>",
+            "body": "<p>Yes — Elvoro is designed for <strong>daily application</strong>, even on sensitive areas.</p><p>For optimal results, apply once a day after showering or shaving. If your skin is extremely sensitive, start with 3–4 applications per week and increase gradually.</p>",
             "hide_block_if": false
           }
         },
         "text_yB3aPJ": {
           "type": "text",
           "settings": {
-            "title": "Où est fabriqué Moringaé Calma ?",
+            "title": "Where is Elvoro Serum made?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Nos produits sont formulés et fabriqués en France 🇫🇷, dans des laboratoires certifiés, avec des ingrédients issus de filières responsables et traçables.</p>",
+            "body": "<p>Elvoro Serum is <strong>formulated and manufactured in the USA</strong>, following strict quality and safety standards to ensure premium-grade skincare you can trust.</p>",
             "hide_block_if": false
           }
         },
         "text_4zwXkp": {
           "type": "text",
           "settings": {
-            "title": "Quand vais-je recevoir ma commande ?",
+            "title": "When will I receive my order?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Les commandes sont expédiées sous 24 à 48h ouvrées.</p><p>La livraison prend ensuite entre <strong>4 à 6 jours ouvrés</strong> selon la destination.</p><p>Vous recevrez un email de suivi dès que votre colis quitte notre atelier.</p>",
+            "body": "<p>Orders are processed within <strong>24 to 48 hours</strong>.</p><p>Delivery times:</p><ul><li><strong>USA:</strong> 3–6 business days<br/></li><li><strong>International:</strong> 5–10 business days<br/></li></ul><p>You will receive a tracking number as soon as your order ships.</p>",
             "hide_block_if": false
           }
         },
@@ -555,23 +555,23 @@
           "type": "text",
           "settings": {
             "title": "Quels modes de paiement acceptez-vous ?",
-            "subtitle": "",
+            "subtitle": "What payment methods do you accept?",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Nous acceptons les principales cartes bancaires (Visa, MasterCard, American Express) ainsi que <strong>Shop Pay</strong>, <strong>Apple Pay</strong> et <strong>Google Pay</strong>.</p>",
+            "body": "<p>We accept all major payment methods, including:</p><ul><li>Credit & debit cards (Visa, Mastercard, AMEX)<br/></li><li>PayPal<br/></li><li>Apple Pay / Google Pay<br/></li><li>Shop Pay<br/></li></ul><p>All transactions are encrypted and 100% secure.</p>",
             "hide_block_if": false
           }
         },
         "text_rFiCAa": {
           "type": "text",
           "settings": {
-            "title": "Puis-je retourner un produit ?",
+            "title": "Can I return a product?",
             "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
-            "body": "<p>Écrivez-nous simplement à <strong>contact@trymoringae.com</strong> pour initier la procédure.</p>",
+            "body": "<p>Absolutely. If you’re not satisfied, you can return your product within <strong>30 days</strong> of delivery.</p><p>Simply contact our support team, and we’ll guide you through a quick and easy return process.</p>",
             "hide_block_if": false
           }
         }
@@ -706,6 +706,7 @@
         "3e0a2bdb-d051-44e4-83f3-1afa320bde87",
         "cb83a160-9292-467c-a153-9199925931bb"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "subheading": "",
