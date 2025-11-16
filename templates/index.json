@@ -15,7 +15,7 @@
         "image_hzMjbF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Le_calme_tient_parfois_dans_une_simple_gelule._1.jpg",
+            "image": "shopify://shop_images/Le_calme_tient_parfois_dans_une_simple_gelule._2.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -33,7 +33,7 @@
       "name": "t:sections.bundle-extra-words.sections.slideshow.name",
       "settings": {
         "desktop_height": "80vh",
-        "mobile_height": "50vh",
+        "mobile_height": "80vh",
         "is_auto_height": true,
         "autorotate_enable": false,
         "autorotate_interval": 5,
@@ -435,7 +435,7 @@
         "is_fullwidth": false,
         "text_alignment": "horizontal-left",
         "spacing": 13,
-        "color_background_main": "#a5afa3",
+        "color_background_main": "#7ba1c2",
         "color_text_main": "#ffffff",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
