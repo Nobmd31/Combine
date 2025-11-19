@@ -325,6 +325,7 @@
           "settings": {
             "title": "Unclogs Pores",
             "caption": "<p>Helps free trapped hairs by dissolving buildup deep inside the pores.</p>",
+            "image": "shopify://shop_images/b2e356e9-7cba-43a4-a95b-3c24e547436a.png",
             "icon": "favorite"
           }
         },
@@ -333,6 +334,7 @@
           "settings": {
             "title": "Exfoliates Dead Skin",
             "caption": "<p>Elvoro gently exfoliates the surface of your skin, removing dead cells and preventing clogged pores that lead to ingrown hairs.</p>",
+            "image": "shopify://shop_images/d386294f-bc17-4ac8-9f4f-1d43b44be42b.png",
             "icon": "earth-globe"
           }
         },
@@ -341,6 +343,7 @@
           "settings": {
             "title": "Reduces Redness",
             "caption": "<p>Visibly reduces redness and irritation for a calmer, healthier-looking complexion.</p>",
+            "image": "shopify://shop_images/0cddc3cc-55d2-47ad-8291-af83a95d539c.png",
             "icon": "favorite"
           }
         },
@@ -349,6 +352,7 @@
           "settings": {
             "title": " Prevents Future Bumps",
             "caption": "<p>Strengthens the skin barrier to prevent new bumps and irritation from forming.</p>",
+            "image": "shopify://shop_images/5f069989-f796-4e8e-afb1-e7aa282c2a82.png",
             "icon": "favorite"
           }
         }
@@ -413,6 +417,7 @@
         "166245749775e9bb81-1"
       ],
       "settings": {
+        "image": "shopify://shop_images/9174e2f4-3b84-4712-b950-aa769ca22d3d.png",
         "video_controls": false,
         "image_position": "right",
         "height": "large",
