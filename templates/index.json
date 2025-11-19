@@ -553,8 +553,8 @@
         "text_Vda9ha": {
           "type": "text",
           "settings": {
-            "title": "Quels modes de paiement acceptez-vous ?",
-            "subtitle": "What payment methods do you accept?",
+            "title": "What payment methods do you accept?",
+            "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
