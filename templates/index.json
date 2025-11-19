@@ -252,6 +252,12 @@
             "custom_liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_EN\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n\n    <div class=\"expert-testimonial\" style=\"display:flex; gap:10px; margin-bottom:20px; margin-top:-15px; align-items:center; border:1px solid #e1e1e1; padding:12px; border-radius:10px; max-width:1200px;\">\n\n      <div style=\"flex-shrink:0;\">\n        <img src=\"https://alzheimer-recherche.org/wp-content/uploads/2025/05/Pr-BLANC2.jpg\"\n             alt=\"Photo of Dr. Michael Bennett\"\n             style=\"border-radius:50%; width:60px; height:60px; object-fit:cover;\">\n      </div>\n\n      <div style=\"flex:1;\">\n        <div style=\"display:flex; align-items:center; margin-bottom:5px;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\"\n               alt=\"4.5-star rating\"\n               style=\"width:100px; height:auto;\">\n        </div>\n\n        <p style=\"font-style:italic; font-size:11px; margin:5px 0; line-height:1.4;\">\n          “<strong>Elvoro</strong> combines ingredients I routinely recommend for ingrown hairs —\n          BHA, niacinamide, and witch hazel. It helps reduce inflammation, calm razor bumps, and\n          prevent new ingrown hairs from forming. Many patients see visible improvements within a week.”\n        </p>\n\n        <div style=\"display:flex; align-items:center; margin-top:5px;\">\n          <img src=\"https://pagepilot.ai/images/checkmark.svg\"\n               alt=\"Verified icon\"\n               style=\"width:16px; height:20px; margin-right:5px;\">\n          <span style=\"font-size:12px;\">Dr. Michael Bennett – Dermatologist</span>\n        </div>\n      </div>\n\n    </div>\n\n  </div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_pVQKt8": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3": {
           "type": "buy_buttons",
           "settings": {
@@ -288,11 +294,14 @@
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
         "custom_liquid_QB7PaF",
+        "kaching_bundles_app_block_pVQKt8",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3",
         "af013906-3d5b-4148-9396-967652cd74ff",
         "custom_liquid_93kzxp"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__bar-title,.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__bar-subtitle {color: white;}"
+      ],
       "settings": {
         "heading": "",
         "subheading": "",
