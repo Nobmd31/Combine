@@ -15,7 +15,7 @@
         "image_hzMjbF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Le_calme_tient_parfois_dans_une_simple_gelule._2.jpg",
+            "image": "shopify://shop_images/Le_calme_tient_parfois_dans_une_simple_gelule..png",
             "caption": "",
             "title": "",
             "link": "",
@@ -98,14 +98,12 @@
         "image_Y69gkR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pseudofolliculite_de_la_barbe.webp",
             "label": "Before"
           }
         },
         "image_VcdtAw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2680e33e-7257-4640-b5ba-c72aece7dd4d.png",
             "label": "After"
           }
         }
@@ -153,7 +151,7 @@
         "image_Rg6JjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_2.png",
+            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_4.png",
             "title": "Michael R.",
             "caption": "I’ve struggled with bumps and ingrown hairs for years, especially around my jawline. After one week with Elvoro, the redness went down, the bumps softened, and shaving stopped irritating my skin. This is the first product that actually works and doesn’t burn. I’m impressed.",
             "link": "",
@@ -167,7 +165,7 @@
         "image_wMVFxk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_4.png",
+            "image": "shopify://shop_images/Black_White_Minimal_Modern_Simple_Bold_Business_Mag_Logo_2.png",
             "title": " Marcus J.",
             "caption": "My ingrown hairs used to get so bad they’d leave dark spots on my jawline. I was skeptical, but after a few days with Elvoro the irritation started calming down, and by the end of the week the bumps were almost gone. The difference is crazy. Wish I found this earlier.",
             "link": "",
@@ -248,12 +246,6 @@
             "unavailable_variants": "hide"
           }
         },
-        "kaching_bundles_app_block_U9WQbU": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "custom_liquid_QB7PaF": {
           "type": "custom_liquid",
           "settings": {
@@ -295,7 +287,6 @@
         "custom_liquid_nXg6gU",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-4",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-2",
-        "kaching_bundles_app_block_U9WQbU",
         "custom_liquid_QB7PaF",
         "template--16437919940841__1eee0d8d-5e33-4159-838a-edeeae95e5dd-1665990114b23b38a4-3",
         "af013906-3d5b-4148-9396-967652cd74ff",
@@ -334,7 +325,6 @@
           "settings": {
             "title": "Unclogs Pores",
             "caption": "<p>Helps free trapped hairs by dissolving buildup deep inside the pores.</p>",
-            "image": "shopify://shop_images/b2e356e9-7cba-43a4-a95b-3c24e547436a.png",
             "icon": "favorite"
           }
         },
@@ -343,7 +333,6 @@
           "settings": {
             "title": "Exfoliates Dead Skin",
             "caption": "<p>Elvoro gently exfoliates the surface of your skin, removing dead cells and preventing clogged pores that lead to ingrown hairs.</p>",
-            "image": "shopify://shop_images/d386294f-bc17-4ac8-9f4f-1d43b44be42b.png",
             "icon": "earth-globe"
           }
         },
@@ -352,7 +341,6 @@
           "settings": {
             "title": "Reduces Redness",
             "caption": "<p>Visibly reduces redness and irritation for a calmer, healthier-looking complexion.</p>",
-            "image": "shopify://shop_images/0cddc3cc-55d2-47ad-8291-af83a95d539c.png",
             "icon": "favorite"
           }
         },
@@ -361,7 +349,6 @@
           "settings": {
             "title": " Prevents Future Bumps",
             "caption": "<p>Strengthens the skin barrier to prevent new bumps and irritation from forming.</p>",
-            "image": "shopify://shop_images/5f069989-f796-4e8e-afb1-e7aa282c2a82.png",
             "icon": "favorite"
           }
         }
@@ -426,7 +413,6 @@
         "166245749775e9bb81-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/9174e2f4-3b84-4712-b950-aa769ca22d3d.png",
         "video_controls": false,
         "image_position": "right",
         "height": "large",
@@ -470,7 +456,6 @@
       "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
-        "image": "shopify://shop_images/4ae42c71-3431-4b19-9c92-ee7a328542d0.png",
         "video_controls": false,
         "image_position": "right",
         "height": "regular",
@@ -607,19 +592,6 @@
     },
     "1762958609028448c1": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_J7FbLK": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "elvoro-smoothing-serum",
-            "review_data": "sample_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_J7FbLK"
-      ],
       "settings": {
         "heading": "",
         "subheading": "",
