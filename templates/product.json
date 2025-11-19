@@ -55,53 +55,6 @@
         "share": {
           "type": "share",
           "settings": {}
-        },
-        "cross_sell_xbWEC8": {
-          "type": "cross_sell",
-          "settings": {
-            "heading": "Cross sell",
-            "product": "england-home",
-            "style": "outline",
-            "hide_block_if": false
-          }
-        },
-        "product_promotion_AnYPYr": {
-          "type": "product_promotion",
-          "settings": {
-            "heading": "Product promotion",
-            "product": "france-home",
-            "show_price_free": true,
-            "text": "Add product promotions or upsell individual items.",
-            "style": "outline",
-            "hide_block_if": false
-          }
-        },
-        "products_list_xCrXgA": {
-          "type": "products_list",
-          "settings": {
-            "heading": "Products list",
-            "select_products": [
-              "england-home",
-              "france-home",
-              "ireland-away",
-              "italy-away"
-            ],
-            "show_price": true,
-            "show_vendor": false,
-            "show_rating": true,
-            "style": "outline"
-          }
-        },
-        "product_promotion_rrkhT6": {
-          "type": "product_promotion",
-          "settings": {
-            "heading": "Product promotion",
-            "product": "",
-            "show_price_free": true,
-            "text": "Add product promotions or upsell individual items.",
-            "style": "outline",
-            "hide_block_if": false
-          }
         }
       },
       "block_order": [
@@ -111,11 +64,7 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "share",
-        "cross_sell_xbWEC8",
-        "product_promotion_AnYPYr",
-        "products_list_xCrXgA",
-        "product_promotion_rrkhT6"
+        "share"
       ],
       "settings": {
         "gallery_layout": "two-cols scroll",
@@ -363,20 +312,6 @@
     },
     "17629576997b4a4121": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_ga3EXw": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_ga3EXw"
-      ],
       "settings": {
         "heading": "",
         "subheading": "",
