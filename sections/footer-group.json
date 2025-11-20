@@ -28,16 +28,24 @@
             "menu_target": false,
             "menu_style": true
           }
+        },
+        "payment_9U9nQk": {
+          "type": "payment",
+          "settings": {
+            "title": "",
+            "only_show_custom_icons": false
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "menu"
+        "menu",
+        "payment_9U9nQk"
       ],
       "settings": {
         "layout": "grid-4 grid-portable-2 grid-lap-1",
-        "show_locale_selector": false,
-        "show_country_selector": false,
+        "show_locale_selector": true,
+        "show_country_selector": true,
         "seo_h_tag": "h2"
       }
     }
