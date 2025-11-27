@@ -20,6 +20,15 @@
             "title": "NEWSLETTER"
           }
         },
+        "text_EqMdGw": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "image_heading_size": 40,
+            "content": "<p><strong>Our mission:</strong> give you smooth, irritation-free skin — without compromise.</p><p>At <strong>Elvoro</strong>, we create skincare designed to eliminate ingrown hairs, reduce razor bumps, and calm sensitive areas.</p><p>Our formulas combine effectiveness, simplicity, and everyday comfort — for cleaner, smoother skin and confidence you can feel.</p>",
+            "show_social_icons": false
+          }
+        },
         "menu": {
           "type": "menu",
           "settings": {
@@ -39,6 +48,7 @@
       },
       "block_order": [
         "newsletter",
+        "text_EqMdGw",
         "menu",
         "payment_9U9nQk"
       ],
