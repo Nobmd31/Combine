@@ -50,7 +50,7 @@
         "show_locale_selector": true,
         "show_country_selector": true,
         "show_social_icons": true,
-        "bar_bgcolor": "#7ba1c2",
+        "bar_bgcolor": "#4a5e75",
         "bar_txtcolor": "#ffffff",
         "border_color": "rgba(0,0,0,0)"
       }

@@ -15,7 +15,7 @@
         "image_hzMjbF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNIERE_USA.jpg",
+            "image": "shopify://shop_images/BANNIERE_1.jpg",
             "caption": "",
             "title": "",
             "link": "",
@@ -74,7 +74,7 @@
       ],
       "name": "t:sections.rich-text.name",
       "settings": {
-        "image": "shopify://shop_images/195b4df4-ff81-4dc2-80f3-5090f1eca32a.png",
+        "image": "shopify://shop_images/263262d5-6347-4538-94cf-8ff77c41603e.png",
         "video_controls": false,
         "image_position": "top",
         "height": "small",
@@ -434,7 +434,7 @@
         "is_fullwidth": false,
         "text_alignment": "horizontal-left",
         "spacing": 13,
-        "color_background_main": "#7ba1c2",
+        "color_background_main": "#4a5e75",
         "color_text_main": "#ffffff",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
